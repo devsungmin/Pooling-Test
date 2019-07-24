@@ -1,0 +1,5 @@
+﻿  Avg_Pooling.cpp
+C:\Users\kimsu\source\repos\Avg_Pooling\Avg_Pooling\Avg_Pooling.cpp(12,12): warning C4244:  '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimsu\source\repos\Avg_Pooling\Avg_Pooling\Avg_Pooling.cpp(20,80): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimsu\source\repos\Avg_Pooling\Avg_Pooling\Avg_Pooling.cpp(90,26): warning C4244:  '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Avg_Pooling.vcxproj -> C:\Users\kimsu\source\repos\Avg_Pooling\Debug\Avg_Pooling.exe
